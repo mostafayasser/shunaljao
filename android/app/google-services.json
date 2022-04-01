@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "125379037702",
+    "project_id": "sh-nu-eljoe-test",
+    "storage_bucket": "sh-nu-eljoe-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125379037702:android:c12b1e89066de93bc11187",
+        "android_client_info": {
+          "package_name": "com.shoeljoe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125379037702-7ta8h1h4jkiqvbsim13ionean0fs933f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoeljoe_app",
+            "certificate_hash": "4c5b7460f3e2a9637bfe2a43df555d62be393983"
+          }
+        },
+        {
+          "client_id": "125379037702-o0526v85qj68dnv5gsjagmi01kq62vse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQA-IG0pq2OMxRFW_tyXoJ9SBnl7wc1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125379037702-o0526v85qj68dnv5gsjagmi01kq62vse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125379037702-mv4bvfior1n07p70uv1vjgr515lai8p8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shoeljoeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<svg id="UI_component_Weather_Images_WeatherStack_small" data-name="UI/component/Weather/Images/WeatherStack/small" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="img_hotDay" data-name="img/hotDay">
+    <g id="Rectangle_1160" data-name="Rectangle 1160" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="48" height="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" fill="none"/>
+    </g>
+    <g id="Component_76_2" data-name="Component 76 – 2" transform="translate(9.927 8.039)">
+      <path id="sun" d="M59.259,63.9a16.359,16.359,0,0,0-15.77-16.436A16.041,16.041,0,1,0,59.259,63.9" transform="translate(-27.264 -47.467)" fill="#ec008c"/>
+    </g>
+  </g>
+</svg>
